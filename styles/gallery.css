@@ -43,6 +43,13 @@ h1:hover {
     .link {
         margin: 20px;
     }
+        .image-grid {
+        flex-direction: column;
+    }
+    .image-grid2 {
+        flex-direction: column;
+        margin-top: 30px;
+    }
 }
 @media (max-width: 768px) {
     .first {
@@ -53,6 +60,13 @@ h1:hover {
     }
     .link {
         margin: 20px;
+    }
+        .image-grid {
+        flex-direction: column;
+    }
+    .image-grid2 {
+        flex-direction: column;
+        margin-top: 30px;
     }
 }
 main {
